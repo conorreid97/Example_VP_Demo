@@ -148,7 +148,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ModelingToolsEditorMode",
+			"Name": "Volumetrics",
 			"Enabled": true
 		}
 	]
