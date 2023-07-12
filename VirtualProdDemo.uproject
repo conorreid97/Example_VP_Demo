@@ -154,6 +154,10 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
+		},
+		{
+			"Name": "LevelSnapshots",
+			"Enabled": true
 		}
 	]
 }
