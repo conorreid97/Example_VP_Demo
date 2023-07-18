@@ -3,6 +3,19 @@
 	"EngineAssociation": "{3A34FF68-4019-E813-ED33-CC9B6888BF8A}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "VirtualProdDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Slate",
+				"SlateCore",
+				"UMG",
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "OpenXR",
